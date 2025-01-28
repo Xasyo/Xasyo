@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Leonardo</h1>
-<h3 align="center">A Software Engineering student at FIB, Barcelona</h3>
+<h3 align="center">A Software Engineering Graduate at FIB, Barcelona</h3>
 
 - 🔭 I’m currently working on **Eatnlift**
 
